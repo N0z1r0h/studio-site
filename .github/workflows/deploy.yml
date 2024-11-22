@@ -1,0 +1,6 @@
+name: Deploy to Github Pages
+
+on:
+  push::
+    Branches:
+      - main
